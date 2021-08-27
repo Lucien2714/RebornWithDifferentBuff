@@ -1,0 +1,5 @@
+name: RebornWithDifferentBuff
+version: '${project.version}'
+main: lucien2714.lucien2714.RebornWithDifferentBuff
+api-version: 1.17
+description: Every time you respawn you will get a new buff.
