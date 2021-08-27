@@ -153,7 +153,7 @@ class player {
             PotionEffectType.ABSORPTION, PotionEffectType.CONDUIT_POWER, PotionEffectType.DAMAGE_RESISTANCE,
             PotionEffectType.FAST_DIGGING, PotionEffectType.FIRE_RESISTANCE, PotionEffectType.BAD_OMEN,
             PotionEffectType.INCREASE_DAMAGE, PotionEffectType.GLOWING, PotionEffectType.INVISIBILITY,
-            PotionEffectType.JUMP, PotionEffectType.LUCK, PotionEffectType.LEVITATION,
+            PotionEffectType.JUMP, PotionEffectType.LUCK,
             PotionEffectType.BLINDNESS, PotionEffectType.CONFUSION, PotionEffectType.DOLPHINS_GRACE,
             PotionEffectType.HEALTH_BOOST, PotionEffectType.HERO_OF_THE_VILLAGE, PotionEffectType.HUNGER,
             PotionEffectType.NIGHT_VISION, PotionEffectType.POISON, PotionEffectType.REGENERATION,
